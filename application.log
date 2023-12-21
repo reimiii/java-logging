@@ -9,3 +9,45 @@
 19:00:24.744 [main] INFO  franxx.code.logging.LevelTest - Info
 19:00:24.746 [main] WARN  franxx.code.logging.LevelTest - Waring
 19:00:24.747 [main] ERROR franxx.code.logging.LevelTest - Error
+19:12:51.116 [main] INFO  franxx.code.logging.MyController - fe96cf70-64b7-463d-89c2-b3f588a21e2d - Controller save
+19:12:51.119 [main] INFO  franxx.code.logging.MyService - fe96cf70-64b7-463d-89c2-b3f588a21e2d - Service save
+19:12:51.120 [main] INFO  franxx.code.logging.MyRepository - fe96cf70-64b7-463d-89c2-b3f588a21e2d - Repository save
+2023-12-21 19:18:54.694 [main] INFO  franxx.code.logging.MyController - []  - 6cd325dd-1eea-465a-9373-03bbda315cdc - Controller save
+2023-12-21 19:18:54.697 [main] INFO  franxx.code.logging.MyService - []  - 6cd325dd-1eea-465a-9373-03bbda315cdc - Service save
+2023-12-21 19:18:54.697 [main] INFO  franxx.code.logging.MyRepository - []  - 6cd325dd-1eea-465a-9373-03bbda315cdc - Repository save
+2023-12-21 19:20:19.634 [main] INFO  franxx.code.logging.MyController - [1001133f-0789-4d5f-8789-dbdbf0115afe]  - 1001133f-0789-4d5f-8789-dbdbf0115afe - Controller save
+2023-12-21 19:20:19.638 [main] INFO  franxx.code.logging.MyService - [1001133f-0789-4d5f-8789-dbdbf0115afe]  - 1001133f-0789-4d5f-8789-dbdbf0115afe - Service save
+2023-12-21 19:20:19.639 [main] INFO  franxx.code.logging.MyRepository - [1001133f-0789-4d5f-8789-dbdbf0115afe]  - 1001133f-0789-4d5f-8789-dbdbf0115afe - Repository save
+2023-12-21 19:23:15.648 [main] INFO  franxx.code.logging.MyController - [248c33aa-8e86-4d06-9f6f-cdc718312998]  - Controller save
+2023-12-21 19:23:15.650 [main] INFO  franxx.code.logging.MyService - [248c33aa-8e86-4d06-9f6f-cdc718312998]  - Service save
+2023-12-21 19:23:15.651 [main] INFO  franxx.code.logging.MyRepository - [248c33aa-8e86-4d06-9f6f-cdc718312998]  - Repository save
+2023-12-21 19:27:01.231 [Thread-4] INFO  franxx.code.logging.MyController - [28d18900-8828-48ce-8dbd-040eb3d54135]  - Controller save
+2023-12-21 19:27:01.234 [Thread-4] INFO  franxx.code.logging.MyService - [28d18900-8828-48ce-8dbd-040eb3d54135]  - Service save
+2023-12-21 19:27:01.235 [Thread-4] INFO  franxx.code.logging.MyRepository - [28d18900-8828-48ce-8dbd-040eb3d54135]  - Repository save
+2023-12-21 19:27:01.231 [Thread-9] INFO  franxx.code.logging.MyController - [3f6ff215-d1fc-4b5e-b964-c90466cedd8a]  - Controller save
+2023-12-21 19:27:01.231 [Thread-5] INFO  franxx.code.logging.MyController - [35a03271-ca74-4c74-88dc-d1e26a1a500d]  - Controller save
+2023-12-21 19:27:01.235 [Thread-9] INFO  franxx.code.logging.MyService - [3f6ff215-d1fc-4b5e-b964-c90466cedd8a]  - Service save
+2023-12-21 19:27:01.235 [Thread-5] INFO  franxx.code.logging.MyService - [35a03271-ca74-4c74-88dc-d1e26a1a500d]  - Service save
+2023-12-21 19:27:01.236 [Thread-5] INFO  franxx.code.logging.MyRepository - [35a03271-ca74-4c74-88dc-d1e26a1a500d]  - Repository save
+2023-12-21 19:27:01.236 [Thread-9] INFO  franxx.code.logging.MyRepository - [3f6ff215-d1fc-4b5e-b964-c90466cedd8a]  - Repository save
+2023-12-21 19:27:01.233 [Thread-8] INFO  franxx.code.logging.MyController - [3e3512cd-3980-4e4e-ab1a-51d7a7adcd5b]  - Controller save
+2023-12-21 19:27:01.233 [Thread-7] INFO  franxx.code.logging.MyController - [ccbecd59-d40b-4d48-ade7-18619cad6660]  - Controller save
+2023-12-21 19:27:01.236 [Thread-8] INFO  franxx.code.logging.MyService - [3e3512cd-3980-4e4e-ab1a-51d7a7adcd5b]  - Service save
+2023-12-21 19:27:01.233 [Thread-2] INFO  franxx.code.logging.MyController - [e2d6ad8f-9d1a-4870-8e79-515f0fe4a74d]  - Controller save
+2023-12-21 19:27:01.237 [Thread-2] INFO  franxx.code.logging.MyService - [e2d6ad8f-9d1a-4870-8e79-515f0fe4a74d]  - Service save
+2023-12-21 19:27:01.237 [Thread-2] INFO  franxx.code.logging.MyRepository - [e2d6ad8f-9d1a-4870-8e79-515f0fe4a74d]  - Repository save
+2023-12-21 19:27:01.231 [Thread-0] INFO  franxx.code.logging.MyController - [2879e40a-58fa-4c16-b029-49d08477dc6b]  - Controller save
+2023-12-21 19:27:01.236 [Thread-7] INFO  franxx.code.logging.MyService - [ccbecd59-d40b-4d48-ade7-18619cad6660]  - Service save
+2023-12-21 19:27:01.237 [Thread-0] INFO  franxx.code.logging.MyService - [2879e40a-58fa-4c16-b029-49d08477dc6b]  - Service save
+2023-12-21 19:27:01.237 [Thread-7] INFO  franxx.code.logging.MyRepository - [ccbecd59-d40b-4d48-ade7-18619cad6660]  - Repository save
+2023-12-21 19:27:01.237 [Thread-0] INFO  franxx.code.logging.MyRepository - [2879e40a-58fa-4c16-b029-49d08477dc6b]  - Repository save
+2023-12-21 19:27:01.237 [Thread-8] INFO  franxx.code.logging.MyRepository - [3e3512cd-3980-4e4e-ab1a-51d7a7adcd5b]  - Repository save
+2023-12-21 19:27:01.231 [Thread-1] INFO  franxx.code.logging.MyController - [83a98609-24a7-417e-aece-9cb1d2a1f674]  - Controller save
+2023-12-21 19:27:01.238 [Thread-1] INFO  franxx.code.logging.MyService - [83a98609-24a7-417e-aece-9cb1d2a1f674]  - Service save
+2023-12-21 19:27:01.231 [Thread-3] INFO  franxx.code.logging.MyController - [fed24cbd-0cc6-4355-b5f6-b9ef05b3b09a]  - Controller save
+2023-12-21 19:27:01.238 [Thread-3] INFO  franxx.code.logging.MyService - [fed24cbd-0cc6-4355-b5f6-b9ef05b3b09a]  - Service save
+2023-12-21 19:27:01.239 [Thread-3] INFO  franxx.code.logging.MyRepository - [fed24cbd-0cc6-4355-b5f6-b9ef05b3b09a]  - Repository save
+2023-12-21 19:27:01.231 [Thread-6] INFO  franxx.code.logging.MyController - [3480d60b-b6ad-45ae-895b-fc397d6dc6a8]  - Controller save
+2023-12-21 19:27:01.239 [Thread-6] INFO  franxx.code.logging.MyService - [3480d60b-b6ad-45ae-895b-fc397d6dc6a8]  - Service save
+2023-12-21 19:27:01.240 [Thread-6] INFO  franxx.code.logging.MyRepository - [3480d60b-b6ad-45ae-895b-fc397d6dc6a8]  - Repository save
+2023-12-21 19:27:01.240 [Thread-1] INFO  franxx.code.logging.MyRepository - [83a98609-24a7-417e-aece-9cb1d2a1f674]  - Repository save
