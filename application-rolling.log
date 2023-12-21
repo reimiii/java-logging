@@ -1,3 +1,6 @@
 18:56:39.400 [main] INFO  franxx.code.logging.LevelTest - Info
 18:56:39.403 [main] WARN  franxx.code.logging.LevelTest - Waring
 18:56:39.403 [main] ERROR franxx.code.logging.LevelTest - Error
+2023-12-21 19:00:24.744 [main] INFO  franxx.code.logging.LevelTest - Info
+2023-12-21 19:00:24.746 [main] WARN  franxx.code.logging.LevelTest - Waring
+2023-12-21 19:00:24.747 [main] ERROR franxx.code.logging.LevelTest - Error
